@@ -1,0 +1,11 @@
+Amys Queso Dip (just purchased)
+
+amount: 4
+currentTemperature: 140
+is_spoiled: false
+is_edible: true
+
+eat: amount = 0
+spoil: is_spoiled = true 
+freeze: currentTemperature = 0
+regurgitate: is_edible = false
