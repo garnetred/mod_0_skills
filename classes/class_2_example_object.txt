@@ -1,0 +1,11 @@
+Oneida Knife at a restaurant
+
+color: "silver"
+is_clean: true
+is_sanitary: true
+currentLocation: "Applebee's"
+
+clean: is_clean = true
+rust: color = brown
+lose: currentLocation = "unknown"
+dropOnFloor: is_sanitary = false
