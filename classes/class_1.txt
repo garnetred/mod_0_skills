@@ -1,0 +1,14 @@
+food class
+
+Attributes:
+
+amount (integer)
+currentTemperature (integer)
+is_spoiled (boolean)
+is_edible (boolean)
+
+Method:
+eat (decreases the amount attribute)
+spoiled (set is_spoiled to true)
+freeze (decreases currentTemperature)
+regurgitate (sets is_edible to false)
