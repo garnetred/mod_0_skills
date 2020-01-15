@@ -1,0 +1,16 @@
+silverware class
+
+Attributes:
+
+color (string)
+is_clean (boolean)
+is_sanitary (boolean)
+currentLocation (string)
+
+
+Methods:
+
+clean (sets is_clean to true)
+rust (sets color to "brown')
+lose (sets currentLocation to unknown)
+dropOnFloor (sets is_sanitary to false)
